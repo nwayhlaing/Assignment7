@@ -1,0 +1,27 @@
+.container{border: 1px solid black;
+display: grid;
+text-align:left;
+margin: 10px 20px 10px 20px;
+width: 510px;
+height: 340px;
+grid-template-columns: 1fr 2fr;}
+
+h3{font-size: 15px;
+    color: burlywood;
+    margin-top: 80px;
+    margin-left: 10px;
+    
+}
+
+    p{font-size: 17px;
+    margin-top: 50px;
+    margin-left: 10px;
+        }
+img{
+margin: 0px 0px 0px 0px;
+background-color: blue;
+width: 220px;
+height: 340px;
+
+}
+h1{margin-left: 10px;}
